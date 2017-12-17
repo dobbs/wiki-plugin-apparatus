@@ -1,0 +1,37 @@
+{
+  "title": "About Apparatus Plugin",
+  "story": [
+  {
+    "type": "paragraph",
+    "id": "be6303d31ec1a89e",
+    "text": "Here we describe the purpose of the plugin and include a sample."
+  },
+  {
+    "type": "apparatus",
+    "id": "8c92c3ad7b4570ca",
+    "text": "This is text in the new plugin. You can *double-click* to edit it too."
+  }
+],
+  "journal": [
+  {
+    "type": "create",
+    "item": {
+      "title": "About Apparatus Plugin",
+      "story": [
+  {
+    "type": "paragraph",
+    "id": "be6303d31ec1a89e",
+    "text": "Here we describe the purpose of the plugin and include a sample."
+  },
+  {
+    "type": "apparatus",
+    "id": "8c92c3ad7b4570ca",
+    "text": "This is text in the new plugin. You can *double-click* to edit it too."
+  }
+]
+    },
+    "date": 1513545576000,
+    "certificate": "from mkplugin.sh"
+  }
+]
+}
